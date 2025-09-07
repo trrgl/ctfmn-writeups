@@ -1,0 +1,10 @@
+pt = b'\x48\x61\x72\x75\x75\x6c\x7a\x61\x6e\x67\x69' # bytestring
+ct = b'\x20\x20\x11\x1E\x47\x5C\x4B\x52\x27\x09\x0E' # bytestring
+flag = ""
+
+for i in range(len(pt)):
+    flag += chr(pt[i] ^ ct[i]) # Bitwise XOR
+
+print(flag)
+
+# OUTPUT : hAck2013Ing

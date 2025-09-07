@@ -1,0 +1,3 @@
+1. 'c'a't' 'f'l'a'g'.'t'x't gej base64 tei flag aa avad decryptln
+
+flag : HZU18{I_kept_my_promise}

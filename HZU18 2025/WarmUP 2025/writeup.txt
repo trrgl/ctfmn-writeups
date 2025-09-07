@@ -1,0 +1,4 @@
+1. exiftool WarmUP.jpg 
+    Description                     : H Z U 1 8 { imag3_met4_data_0x02d8f8 }
+
+flag : HZU18{imag3_met4_data_0x02d8f8}

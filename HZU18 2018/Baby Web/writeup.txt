@@ -1,0 +1,3 @@
+1. php der 1e5 buyu 1 * 10^5 too bichij boldog
+
+flag : HZU18{HEX_NUMBER>999_393262589d421951}

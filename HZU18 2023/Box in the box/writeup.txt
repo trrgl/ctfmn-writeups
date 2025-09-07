@@ -1,0 +1,6 @@
+1. binwalk -e boxa.jpeg
+2. binwalk -e boxi.jpeg
+3. binwalk -e box.jpeg gej buh boxoo zadlaad file uud garj irher
+4. grep -r -i "HZU18" ged flag aa avna
+
+flag : HZU18{123456789-U-F!n@llY-g07-17-bruV}

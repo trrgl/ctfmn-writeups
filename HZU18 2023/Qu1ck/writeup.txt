@@ -1,0 +1,4 @@
+1. hex -> gcode (https://gchq.github.io/CyberChef), (https://ncviewer.com/)
+2. pastebin luu orod flag aa avna
+
+flag : HZU18{N0w_Y0u_S33_m3}

@@ -1,0 +1,6 @@
+1. exiftool screenshot.webp
+    ...
+    Title : HZU18{@n1m3_l1f3_422e5ca8f2983f2491}
+    ...
+
+flag : HZU18{@n1m3_l1f3_422e5ca8f2983f2491}

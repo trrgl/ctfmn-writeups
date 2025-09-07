@@ -1,0 +1,5 @@
+1. gzip -d hk_hlm_founds.txt.gz gj wordlist ee zadlaad
+2. fcrackzip -u -D -p hk_hlm_founds.txt message-to-you.zip gej Dictionary attack higd zip ee zadlana
+
+PASSWORD FOUND!!!!: pw == IvoCcQGJqQlKMyb0ZYPBWF
+flag : HZ{w3_w1n_7h15_b477l3,_w3_w1n_7h15_w4r._l37'5_d0_17!}

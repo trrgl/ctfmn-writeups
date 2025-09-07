@@ -1,0 +1,32 @@
+trrgl@Tergels-MacBook-Air Downloads % unzip zipper.zip 
+Archive:  zipper.zip
+ extracting: fdrujnagsc.zip          
+trrgl@Tergels-MacBook-Air Downloads % unzip fdrujnagsc.zip 
+Archive:  fdrujnagsc.zip
+ extracting: elztfhdnkx.zip          
+trrgl@Tergels-MacBook-Air Downloads % unzip elztfhdnkx.zip 
+Archive:  elztfhdnkx.zip
+ extracting: yoellyupcy.zip          
+trrgl@Tergels-MacBook-Air Downloads % unzip yoellyupcy.zip 
+Archive:  yoellyupcy.zip
+ extracting: xwcynceuxk.zip          
+trrgl@Tergels-MacBook-Air Downloads % unzip xwcynceuxk.zip 
+Archive:  xwcynceuxk.zip
+ extracting: rdhzsqxpqu.zip          
+trrgl@Tergels-MacBook-Air Downloads % unzip rdhzsqxpqu.zip 
+Archive:  rdhzsqxpqu.zip
+ extracting: lxovccfebw.zip          
+trrgl@Tergels-MacBook-Air Downloads % unzip lxovccfebw.zip 
+Archive:  lxovccfebw.zip
+ extracting: rowonpwbdg.zip          
+trrgl@Tergels-MacBook-Air Downloads % unzip rowonpwbdg.zip 
+Archive:  rowonpwbdg.zip
+ extracting: cklrmksnkl.zip          
+trrgl@Tergels-MacBook-Air Downloads % unzip cklrmksnkl.zip 
+Archive:  cklrmksnkl.zip
+warning:  skipped "../" path component(s) in ../flag.txt
+ extracting: flag.txt
+
+1. unzip hiiged flag gargaad avj bolno (baga tooni zip bga uchir brute-force bolomjtoi challenge)
+
+flag : mazala{unzipped_me?}

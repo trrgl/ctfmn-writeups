@@ -1,0 +1,4 @@
+1. faildsn har packet buriin zarimndn sul useg bgagn tsugluulad -> bGl2ZV9mcmVl
+2. base64 decode
+
+flag : HZ{live_free}

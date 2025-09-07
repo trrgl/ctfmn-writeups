@@ -1,0 +1,4 @@
+1. gzip -d base.txt.gz gej zadlad
+2. base64 -> png (https://gchq.github.io/CyberChef)
+
+flag : HZU18{CONVERT_YOUR_IMAGES_TO_BASE64}

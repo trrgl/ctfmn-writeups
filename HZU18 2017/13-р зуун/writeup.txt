@@ -1,0 +1,4 @@
+UMH18{ZBATBY_RZCVER}
+1. ROT/Caeser cipher -> SHIFT=13 (https://gchq.github.io/CyberChef/)
+
+flag : HZU18{MONGOL_EMPIRE}

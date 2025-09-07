@@ -1,0 +1,3 @@
+1. damjuulsan sainuu.txt nii utgiig cyberchef luu hij uzhed base64 hiisen jpg boloh n oldono (https://gchq.github.io/CyberChef/)
+
+flag : HZ{Valar_morghul1s}

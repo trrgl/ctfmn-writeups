@@ -1,0 +1,4 @@
+1. Mongol tsagaan tolgoin daraallar usgiin solih а -> 0, б -> 1, в -> 2, ... 
+2. garsan too nuudig ascii utga ruun hovrulne (https://gchq.github.io/CyberChef/)
+
+flag : HZU18{S1MPLE_PUZZL3}

@@ -1,0 +1,4 @@
+1. index.php g harahad username=admin, md5(password)=86a8b9ded31796c99d3cd6336609bc88 bh ystoi
+2. https://hashes.com/en/decrypt/hash -> SuperSecurePassword gej oldono
+
+flag : HZU18{you_kn0w_about_hash_1baa04016ff8bc9e}

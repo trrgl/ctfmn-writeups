@@ -1,0 +1,11 @@
+1. base64 decode    
+    YPRKP KQSCEXX MVYQ RTE CTRKAEC - WJUIOQDKLTDW (NE. TRIP EVZO XFQ FSRRE TSFMC)
+
+    - "We do only what we're meant to do." => The Keymaker iin heldg ug (Matrix)
+
+2. Vigenere Cipher (key = THEKEYMAKER)
+    FINAL MESSAGE FROM THE SPARTAS - SLIIEMMREPTS (PS. THEY LOVE THE FINAL MOVIE)
+
+3. UNSCRAMBLE THIS SHIT => SIMPLERTIMES
+
+flag : HZ2024{SIMPLERTIMES}

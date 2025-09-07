@@ -1,0 +1,1 @@
+1. fcrackzip -u -b -c aA1 -l 5-5 assignment.zip -> gej zip ee cracklad flag aa avna /hogiin udna/

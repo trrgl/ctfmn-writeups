@@ -1,0 +1,4 @@
+1. file Муур-багш.pptx gej haraad word document gedgin harna
+2. mv Муур-багш.pptx haha.doc ged ongoilgood zurgniihn ard bga
+
+flag : HZU18{c4t_the_flag}

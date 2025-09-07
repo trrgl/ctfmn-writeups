@@ -1,0 +1,5 @@
+1. exiftool chall_1.png gher comment nder base64 bn
+2. base64 decode -> hAZauZU7
+3. https://pastebin.com/hAZauZU7
+
+flag : HZU18{y0u_ar3_0s!nt3r}

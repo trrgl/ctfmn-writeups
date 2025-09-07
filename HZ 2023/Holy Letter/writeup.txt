@@ -1,0 +1,16 @@
+1. line bolgonii Caeser cipher shiftnii too deerh bible verse iinh ugiig ugsraad flag aa avna.
+
+    Hail Caesar
+
+    Flag is "_" between all words underneath:
+
+    Genesis 3:5 (SHIFT = 10) -> your
+    1 Samuel 9:3 (SHIFT = 16) -> son
+    Luke 21:16 (SHIFT = 4) -> betrayed
+    Numbers 21:29 (SHIFT = 19) -> and
+    2 Chronicles 24:25 (SHIFT = 12) -> conspired
+    Exodus 16:2 (SHIFT = 8) -> against
+    1 Samuel 13:22 (SHIFT = 3) -> the
+    1 Peter 2:17 (SHIFT = 15) -> emperor
+
+flag : HZ{your_son_betrayed_and_conspired_against_the_emperor}

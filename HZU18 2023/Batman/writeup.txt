@@ -1,0 +1,7 @@
+1. steghide extract -sf k3.jpg --> aa.zip avna
+2. fcrackzip -u -D -p ../Documents/rockyou.txt aa.zip
+    PASSWORD FOUND!!!!: pw == naruto
+3. java -jar stegsolve.jar aar red plane 3 iig harval -> SnJfQXJycV9Pbmd6bmFfVmFfQmhlX1B2Z2w=
+4. base64 + rot13 decode
+
+flag : HZU18{We_Need_Batman_In_Our_City}

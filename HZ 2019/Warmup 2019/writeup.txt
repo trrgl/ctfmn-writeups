@@ -1,0 +1,6 @@
+1. http://139.162.5.230:10296/robots.txt shalgaj uzvel 
+    Disallow: /r0b0-0nly/ oldono.
+2. http://139.162.5.230:10296/r0b0-0nly/ aar orhod robot bh ystoi gene.
+3. 'Googlebot' gej google crawler botnii user-agent iig ashiglahad base64 encrypted flag ugnu
+
+flag : hz19{L0ng_L1ve_th3_r0bOts}

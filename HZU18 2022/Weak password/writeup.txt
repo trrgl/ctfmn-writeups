@@ -1,0 +1,5 @@
+1. MB2 -> View Page Source geed source code iin harhad login_check() function g harj bolno
+2. username = sage, password = md5hash bgag harj bolno
+3. md5 hashiign crackln (https://crackstation.net/) -> Password123!
+
+flag : hzu18{You_G0t_th3_fl@g}

@@ -1,0 +1,4 @@
+1. zadalhaar ./ dotor .git ged nuuts file garj irne (ls -la)
+2. git log -p ged logiin harna
+
+flag : hz{fd09b9a15b46cc466c673a45e6d99470}

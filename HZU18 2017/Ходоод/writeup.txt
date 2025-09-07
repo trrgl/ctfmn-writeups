@@ -1,0 +1,3 @@
+1. strings shark.exe|grep -i "hzu18" ged flaga avna.
+
+flag : HZU18{Str1ngs_1s_my_fri3nd}

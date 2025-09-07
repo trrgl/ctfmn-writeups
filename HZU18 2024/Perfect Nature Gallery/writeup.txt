@@ -1,0 +1,4 @@
+Perfect Nature Gallery
+1. zurgiin hex data giin header hesgig ynzlana (https://hexed.it)
+
+flag: HZU18{bi_uugan_ta_nariig_olohgui_gej_bodoj_bailaa}

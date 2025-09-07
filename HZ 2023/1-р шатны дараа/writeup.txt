@@ -1,0 +1,4 @@
+1. '-', '.' salgaj avad algssn muriin space gj avaad morse code
+    -- ----- .-. ..... ...-- ..--.. .-- --... ..-. .--..
+
+flag : HZ2023{M0R53_W7F}

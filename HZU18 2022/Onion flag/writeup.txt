@@ -1,0 +1,6 @@
+1. fcrackzip -u -D -p rockyou.txt 36.zip -> gej uzehed pass n 'x' gej oldoj bga n busad buh passuudn angli helgiin 1 character gdgin todorhoi bolj bicne
+2. fcrackzip -u -b -c a -l 1-1 35.zip geh metchilen doosho yvj budgendin ongoilgono
+3. suulin zip iig ongoilgohod note 36 aas 1 hurtleh buh nuuts uguudin niilber gdg note oldood teriige butsad tsugluulna.
+    pass for flag.zip : xmezqwhvvbxijiezkvfkdpfylegfrbjubekm
+
+flag : hz{l1l_B17_0niON_r1Gh7_rIgN7?}

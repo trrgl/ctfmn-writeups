@@ -1,0 +1,5 @@
+1. curl https://d17zlucxou2y8w.cloudfront.net/forensic/025--got_jpg/GOT.jpg > GOT.jpg zurga tataj avad
+2. xxd GOT.jpg | less geh uyd ehnii 8 byten jpg iin header tei taarku bgag harah (https://en.wikipedia.org/wiki/List_of_file_signatures)
+3. hexiin zasaad ynzlah (https://hexed.it/)
+
+flag : HZ{Valar_morghul1s}

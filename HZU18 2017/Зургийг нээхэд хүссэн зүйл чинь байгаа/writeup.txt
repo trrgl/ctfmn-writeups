@@ -1,0 +1,4 @@
+1. strings find.jpg
+    0Pflag:image_is_hex
+
+flag : HZU18{image_is_hex}

@@ -1,0 +1,4 @@
+1. guilgjahad gants sondgoi UDP request bga
+    want some flagSFpVMTh7cDRhY2tldHNfZXYzcnl3aGVyZV95ZWFoX21hbj8hfQwant some flagwant some flag (base64 decode)
+
+flag : HZU18{p4ackets_ev3rywhere_yeah_man?!}

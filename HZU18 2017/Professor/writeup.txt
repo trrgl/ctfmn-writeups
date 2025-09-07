@@ -1,0 +1,4 @@
+1. zsteg severus_snape.png 
+    extradata:0         .. text: "HZU18{D4RK_ART}"
+
+flag : HZU18{D4RK_ART}

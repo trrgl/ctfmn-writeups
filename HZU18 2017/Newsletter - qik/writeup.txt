@@ -1,0 +1,5 @@
+1. medeeni hamgiin tom site == ikon.mn
+2. qik == id
+3. https://ikon.mn/n/qik -> comment hesegt flag bga.
+
+flag : HZU18{IKON_1s_aweS0me}

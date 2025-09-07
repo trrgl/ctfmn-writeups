@@ -1,0 +1,9 @@
+1. ROT/Caeser cipher SHIFT=10 (https://gchq.github.io/CyberChef/)
+    "To cipher or not to cipher, that is the question;
+    Whether 'tis nobler in the code to suffer
+    The slings and arrows of outrageous hacking,
+    Or to take arms against a sea of data breaches,
+    And by encrypting, end them?"
+    ccsCTF{W3lc0m3_70_7h3_ch4ll3n935}
+
+flag : ccsCTF{W3lc0m3_70_7h3_ch4ll3n935}

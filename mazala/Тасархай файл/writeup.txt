@@ -1,0 +1,4 @@
+1. xxd 67778|less file uudin header uudign harjgd ene file .jpg tei adilhan gdgig olno
+2. uldsn file uuda hoinosn zalgad zurgaa ugsarna (brute-force) (https://gchq.github.io/CyberChef)
+
+flag : mazala{oo_zalgachihsan_uu}

@@ -1,0 +1,5 @@
+1. Least Significant Bit buyu 1101010'1' hamgin suulin bit uuder ugsarsan flag
+2. zsteg chuhal_bish_bituud.png (https://www.aperisolve.com/)
+    b1,b,lsb,xy         .. text: "mazala{1east_signific4nt_b1t}"
+
+flag : mazala{1east_signific4nt_b1t}

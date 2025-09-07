@@ -1,0 +1,3 @@
+1. hex -> octal -> base32 -> ascii -> binary -> hex -> base64
+
+flag : HZU18{Ch3F's-K1ss1nG_T0UCH}

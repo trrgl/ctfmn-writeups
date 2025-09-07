@@ -1,0 +1,10 @@
+1. 'unzip 999.zip' gehed 998 gesen urgutulgui .tar file garj irne .tar gdgin 'file 998' ged shalgaj bolno
+
+    for i in {998..1}; do
+        unzip "$i"
+    done
+
+    gej 1 boltol zip tailna
+
+NOTE : daraalln .zip bolon .tar holildtson bga mun zarim .tar file uud 'unzip' command aar ongoidoggu tul ter uyd garaara 'tar -xf i' gej zadlaad bash script ee ehleh toogiin bagasgaad urgejluulne
+flag : HZ2023{v3ry_g00d_scr1pt1ng_sk1llz}

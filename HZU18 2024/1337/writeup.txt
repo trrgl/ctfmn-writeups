@@ -1,0 +1,7 @@
+1. Header ee helsnern yanzalj yvulah hrgte
+    User-Agent -> haruulzangi browser
+    Sec-CH-UA-Mobile -> ?1
+    Content-Language -> mongol
+    Date -> 1337
+
+flag : HZU18{th@nK_yoU_foR_Com1nG_B@ck_fR0m_1337}

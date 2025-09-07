@@ -1,0 +1,4 @@
+1. <script></script> dotros 'fetch(`/read?book=./books/${filename}.txt`)' nomoo ingej fetch ldgig haraad tatsan file aasa flag iin bairshilaarn chigluulne
+2. http://139.162.5.230:10070/read?book=../flag
+
+flag : HZU18{LFI_1Z_S0_E4SY}

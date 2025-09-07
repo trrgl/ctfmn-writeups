@@ -1,0 +1,7 @@
+1. python3 ansible2john.py vault > vault.hash (https://github.com/openwall/john/blob/bleeding-jumbo/run/ansible2john.py)
+2. john --wordlist=../Documents/rockyou.txt vault.hash
+3. john --show vault.hash
+    vault:Blink182
+4. ansible-vault decrypt vault (password:Blink182) -> Waitsightfallday23
+
+Flag : HZU18{Waitsightfallday23}

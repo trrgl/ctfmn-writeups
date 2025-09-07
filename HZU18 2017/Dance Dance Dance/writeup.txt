@@ -1,0 +1,4 @@
+1. Dancing Men Cipher (https://www.dcode.fr/dancing-men-cipher)
+2. IMDANCINGMENIMDANCINGMEN gej horvuulegdene
+
+flag : HZU18{IMDANCINGMENIMDANCINGMEN}

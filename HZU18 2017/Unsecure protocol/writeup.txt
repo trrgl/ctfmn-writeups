@@ -1,0 +1,3 @@
+1. Follow TCP that easy xD
+
+flag : HZU18{OMG_CL34RT3XT}

@@ -1,0 +1,4 @@
+1. .rar - aa zadlaad dotroh png giin metadata g harna (exiftool Mr_robot.png)
+    Artist                          : HZU17{Rami_Malek_vs_Elliot}
+
+flag : HZU17{Rami_Malek_vs_Elliot}

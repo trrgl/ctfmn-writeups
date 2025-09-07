@@ -1,0 +1,8 @@
+1. exiftool flower.jpeg -> metadata haruuldg tool (https://www.aperisolve.com/)
+    ...
+    Description                     : SFpVMTh7bmFpel9vaGludG9pX2JvbF9oaWNoZWVnZWVyZWlfYmhndWlfYm9sX2ZsYWdhYV9hdn0=
+    ...
+
+2. SFpVMTh7bmFpel9vaGludG9pX2JvbF9oaWNoZWVnZWVyZWlfYmhndWlfYm9sX2ZsYWdhYV9hdn0= -> base64 decode (https://gchq.github.io/CyberChef/)
+
+flag : HZU18{naiz_ohintoi_bol_hicheegeerei_bhgui_bol_flagaa_av}

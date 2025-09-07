@@ -1,0 +1,8 @@
+1. Certificate Signing Request (CSR) buguud decoderoor contentiin harna (https://www.sslshopper.com/csr-decoder.html)
+    Organization: HZU18{C3r7if13d_h4ck3r}
+    Locality: Ulaanbaatar
+    State: Ulaanbaatar
+    Country: MN
+    Key Size: 2048 bit
+
+flag : HZU18{C3r7if13d_h4ck3r}

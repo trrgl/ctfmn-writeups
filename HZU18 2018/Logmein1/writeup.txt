@@ -1,0 +1,3 @@
+1. Just Inspect dafaq xD
+
+flag : HZU18{cl1ent_s1l3_auth_sux_37880042da32113c}

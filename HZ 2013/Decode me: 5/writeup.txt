@@ -1,0 +1,4 @@
+0x4861636B65725A616E67213337
+1. hex -> ascii (https://gchq.github.io/CyberChef/)
+
+flag : HackerZang!37

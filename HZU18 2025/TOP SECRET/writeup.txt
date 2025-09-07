@@ -1,0 +1,4 @@
+1. exiftool deed password iin olod
+2. steghide extract -sf top-secret.jpg -p МашНууц
+
+flag : HZU18{nuuts_b0l_nuuts_0x2222222}

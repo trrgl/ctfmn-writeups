@@ -1,0 +1,4 @@
+1. fcrackzip -u -D -p rockyou.txt netflix.zip hiiged netflix gsn passwordtoi g olno.
+2. folderoos grep -r -i "hzu18" gej haigal 
+
+flag : HZU18{Wh@t_Is_YOUR_FavOrite_Ser1es_on_NETFLIX_???}

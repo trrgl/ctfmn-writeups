@@ -1,0 +1,4 @@
+SFpVMTh7VzNsY29tZV90b19IWlUxOF8weGQ3czg3ZDkyZDNhMn0=
+1. Base64 decode (https://gchq.github.io/CyberChef/)
+
+flag : HZU18{W3lcome_to_HZU18_0xd7s87d92d3a2}

@@ -1,0 +1,4 @@
+1. $kenobi = preg_replace("/$palpatine/", '', $chewbacca); -> 'skyskywalkerwalker' gdg text iin skywalker gej unshgdh goliin hesgiig ustgchad dran shalgddgui
+2. http://139.162.5.230:10112/?yoda_words=skyskywalkerwalker gej orod flag aa avna gsn ug
+
+flag : HZ19{Master_Y4d0_1s_God}

@@ -1,0 +1,6 @@
+1. exiftool waaaaaiteee.jpg ged harahad
+    Image Width                     : 747
+    Image Height                    : 1 -> height ee 1 ged ugtsnc gsn pixeliin medeell bgan ilt baina.
+2. hex editroos widht 747 buyu 0x2EB hex iig olood hajud taliin 0x01 hexiig solino. (https://hexed.it/)
+
+flag : HZ23{st3gMakesLifeEsYIER}

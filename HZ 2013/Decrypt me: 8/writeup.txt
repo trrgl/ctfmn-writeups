@@ -1,0 +1,7 @@
+1. Diffie-Hellman key exhange bugud decoderoorn bodno (https://www.dcode.fr/diffie-hellman-key-exchange)
+    P = 257
+    G = 5
+    private_key1 = 5^x mod 257 = 16
+    private_key2 = 5^y mod 257 = 248
+
+flag : 256

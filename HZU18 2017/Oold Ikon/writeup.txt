@@ -1,0 +1,4 @@
+1. https://web.archive.org/web/20150102003904/http://www.ikon.mn/ -> wayback machine aas snapshotiin olno
+2. View Page Source drad 'csrf' gej find higd olno
+
+flag : HZU18{MJVqKP0BLhbinsch00V0xBCZcLCtknBufYbJeL0T1yk=}

@@ -1,0 +1,3 @@
+1. saihan uzeg tsaasnder zurjgal logic gate uude harjgd oldono 🥀
+
+flag : ccsCTF{ACDF}

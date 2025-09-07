@@ -1,0 +1,3 @@
+1. header iin .png iin headertei adil bolgool bolno.
+
+flag : HZU18{Th3_mongolZ_0x1d1f1c}
