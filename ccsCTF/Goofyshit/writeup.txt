@@ -1,5 +1,0 @@
-1. gif ee frame bureern salgaad (https://ezgif.com/split)
-2. 4 bolon 7 doh frame iin qr iig unshuulahd -> https://pastebin.com/RTpHLsFn , https://pastebin.com/y6kdkmwt
-3. dotorn bga base64 iin niilulj decode lod flag aa avna
-
-flag : ccsCTF{g00f1n9_4r0und}

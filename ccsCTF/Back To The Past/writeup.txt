@@ -1,4 +1,0 @@
-1. wayback machine (https://archive.org) aas twitter.com/MrY33ter gej haina.
-2. 2023-02-01 iin snapshot iig harahad flag oldono.
-
-flag : ccsCTF{Y3TI_54Y5_900d_j0b}

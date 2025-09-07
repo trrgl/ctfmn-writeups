@@ -1,4 +1,3 @@
-# tsag aarn sortln
 from datetime import datetime
 
 with open("numbers.log", "r") as f:
@@ -37,5 +36,4 @@ with open("sorted.log", "w") as f:
 # 2023-01-03 15:46:20.439679 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 - GET /3 - 13974
 # 2023-01-03 15:46:20.442679 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 - GET /} - 5898
 
-# GET request uudign niiluled flag aa avna.
 # flag : ccsCTF{C0nfus10n}

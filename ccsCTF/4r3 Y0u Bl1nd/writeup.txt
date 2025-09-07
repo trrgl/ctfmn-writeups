@@ -1,4 +1,0 @@
-1. hex -> braille -> gcode (https://gchq.github.io/CyberChef), (https://ncviewer.com/)
-2. pastebin dotor flag bga.
-
-flag : ccsCTF{S0_Y0u_4Re_N0t_B1inD}
