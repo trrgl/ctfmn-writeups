@@ -1,3 +1,0 @@
-1. header ee png tei taaruulj ynzlal bolo (https://hexed.it/)
-
-flag : ccsCTF{Keep_going_son}

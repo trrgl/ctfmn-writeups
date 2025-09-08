@@ -1,3 +1,0 @@
-1. QR iin unshulchho
-
-flag : ccsCTF{my_d09_b17_my_qr}
