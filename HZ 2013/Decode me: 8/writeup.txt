@@ -1,3 +1,0 @@
-1. Nzwvyggnv-69qs09 -> ROT/Caeser cipher (SHIFT=13) (https://gchq.github.io/CyberChef/)
-
-flag : Amjilttai-69df09

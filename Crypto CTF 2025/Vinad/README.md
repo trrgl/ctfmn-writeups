@@ -1,0 +1,7 @@
+# Vinad
+
+Custom `RSA`, reverse it.
+
+[Solution Code](./sol.py)
+
+> Flag : CCTF{s0lV1n9_4_Syst3m_0f_L1n3Ar_3qUaTi0n5_0vEr_7H3_F!3lD_F(2)!}

@@ -1,4 +1,0 @@
-VGEgYW1qaWxsdGFpIGRhdmxhYS4gbnV1dHMgdHVseHV1cjogemFuZ2kyMzk5
-1. Base64 decode (https://gchq.github.io/CyberChef/)
-
-flag : zangi2399
