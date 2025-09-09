@@ -12,5 +12,4 @@ for i,fname in enumerate(files):
         with open(f'chall/{fname}', 'rb') as inf:
             outf.write(header + inf.read())
 
-# NOTE : holboh zurga bolgonoo 1, 1 eern shalgana shu.
 # FLAG : ccsCTF{zaza_zvgeer_flagaa_aw2}
