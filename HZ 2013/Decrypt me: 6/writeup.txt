@@ -1,3 +1,0 @@
-1. FUCKING CRYPTOGRAM (https://rumkin.com/tools/cipher/cryptogram-solver + tsaas)
-
-flag : CAN YOU DECRYPT THIS MESSAGE

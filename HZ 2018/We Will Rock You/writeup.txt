@@ -1,6 +1,0 @@
-1. binwalk -e erveehei.jpg -> zurgand nuusan zip fileiig zadlan avah
-2. cd _erveehei.jpg.extracted -> zadlasan fileuudlaga oroh
-3. fcrackzip -u -D -p rockyou.txt 34EE.zip -> hamgiin aldartai pass dictionary gaar zadlah
-    PASSWORD FOUND!!!!: pw == !butterfly!
-
-flag : HZ{brut3forcing_is_c00l}

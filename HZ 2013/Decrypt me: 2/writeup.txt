@@ -1,3 +1,0 @@
-1. Atbash Cipher (https://www.dcode.fr/atbash-cipher)
-
-flag : zuirug2

@@ -1,5 +1,0 @@
-1. word document iig ongoilgohod macro toi gej sanuulj bn.
-2. macrogiin untragad yu bsnin shalgana. (Tools -> Macros -> Visual Basic Editor)
-3. baigaa c heldeerh code iig run hiiged flag aa avna.
-
-flag : HZ{m@CRO_SH3LL_C000DE}

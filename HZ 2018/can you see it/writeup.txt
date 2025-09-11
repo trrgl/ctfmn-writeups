@@ -1,4 +1,0 @@
-1. zip ee zadlaad leed (password = password)
-2. 'grep -r {' ged flag aa haina
-
-flag : HZ{y0u_can_ju5t_rgrep}
